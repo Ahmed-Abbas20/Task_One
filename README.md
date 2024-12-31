@@ -16,3 +16,6 @@
 ### What is git rebase?
 integrates changes from one branch into another by replaying commits on top of a base branch, creating a linear history.
 It is used to simplify commit history and resolve conflicts while keeping a cleaner project timeline.
+
+### pull request.
+allows developers to propose changes from one branch to another, typically for review and collaboration. It facilitates code review, discussion, and merging of changes into a target branch.
