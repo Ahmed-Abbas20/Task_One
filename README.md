@@ -13,3 +13,6 @@
 ```git push origin :refs/tags/v1.4```
 ### To delete a local tag
 ```git tag -d v1.4```
+### What is git rebase?
+integrates changes from one branch into another by replaying commits on top of a base branch, creating a linear history.
+It is used to simplify commit history and resolve conflicts while keeping a cleaner project timeline.
