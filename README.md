@@ -19,4 +19,4 @@ It is used to simplify commit history and resolve conflicts while keeping a clea
 
 ### pull request.
 allows developers to propose changes from one branch to another, typically for review and collaboration. It facilitates code review, discussion, and merging of changes into a target branch.
-![Description of the image](images/image.png)
+![Description of the image](images/dish.png)
